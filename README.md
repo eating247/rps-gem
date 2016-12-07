@@ -22,7 +22,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+After installing, you can play the game in pry or irb by calling and instance of TtRPS::RockPaperScissors.new, and calling the "play" method on your session. 
 
 ## Development
 
